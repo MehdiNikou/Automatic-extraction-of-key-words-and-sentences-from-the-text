@@ -1,0 +1,1 @@
+Automatic extraction of key words and sentences from the text of the seventh chapter of the book  of The DESIGN of EVERYDAY THINGS with SVD and Rank k approximation
